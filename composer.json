@@ -1,5 +1,7 @@
 {
-	"name": "Sam/attribute-validation",
+	"name": "vsamovarov/attribute-validation",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"require": {
 		"php": "^8.2",
 		"illuminate/support": "^12.0"
