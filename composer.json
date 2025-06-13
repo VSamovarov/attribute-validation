@@ -1,5 +1,5 @@
 {
-	"name": "Sam/data-objects",
+	"name": "Sam/attribute-validation",
 	"require": {
 		"php": "^8.2",
 		"illuminate/support": "^12.0"
